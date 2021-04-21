@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserFinder.API</name>
+    </assembly>
+    <members>
+        <member name="M:UserFinder.API.Controller.UsersController.Get">
+            <summary>
+            Get All Users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserFinder.API.Controller.UsersController.Get(System.Int32)">
+            <summary>
+            Get User By Id 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserFinder.API.Controller.UsersController.Post(UserFinder.Entities.User)">
+            <summary>
+            Create a User Definition
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserFinder.API.Controller.UsersController.Put(UserFinder.Entities.User)">
+            <summary>
+            Update the user 
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserFinder.API.Controller.UsersController.Delete(System.Int32)">
+            <summary>
+            Delete the User
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

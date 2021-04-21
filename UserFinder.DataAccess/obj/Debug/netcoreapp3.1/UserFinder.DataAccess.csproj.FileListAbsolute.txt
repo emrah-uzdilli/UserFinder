@@ -1,0 +1,15 @@
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.csprojAssemblyReference.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.AssemblyInfo.cs
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.deps.json
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.runtimeconfig.json
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.Entities.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\bin\Debug\netcoreapp3.1\UserFinder.Entities.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.csproj.CopyComplete
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.DataAccess\obj\Debug\netcoreapp3.1\UserFinder.DataAccess.genruntimeconfig.cache

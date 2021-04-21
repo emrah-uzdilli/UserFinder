@@ -1,0 +1,9 @@
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\bin\Debug\netcoreapp3.1\UserFinder.Entities.deps.json
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\bin\Debug\netcoreapp3.1\UserFinder.Entities.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\bin\Debug\netcoreapp3.1\UserFinder.Entities.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.AssemblyInfo.cs
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Entities\obj\Debug\netcoreapp3.1\UserFinder.Entities.csprojAssemblyReference.cache

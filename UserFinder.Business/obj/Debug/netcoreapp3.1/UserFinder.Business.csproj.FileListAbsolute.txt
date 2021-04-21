@@ -1,0 +1,14 @@
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.csprojAssemblyReference.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.AssemblyInfoInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.AssemblyInfo.cs
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.Business.deps.json
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.Business.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.Business.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.Entities.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.DataAccess.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\bin\Debug\netcoreapp3.1\UserFinder.Entities.pdb
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.csproj.CopyComplete
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.dll
+C:\Users\200201803\source\repos\UserFinder\UserFinder.Business\obj\Debug\netcoreapp3.1\UserFinder.Business.pdb
